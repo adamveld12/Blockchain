@@ -1,27 +1,71 @@
-![pdf version](https://img.shields.io/bower/v/adminlte.svg)
-![Blockchain](https://www.digimarc.com/public_images/blockchain-1500x600.jpg)
 
-# Blockchain and cryptocurrency Document Library:
+![http://graphics.reuters.com/TECHNOLOGY-BLOCKCHAIN/010070P11GN/index.html](https://thumbs.gfycat.com/SameConsciousAvians-size_restricted.gif)
+
+# Blockchain and cryptocurrency Library:
 Collection of useful documents about Bitcoin, Ethereum, blockchain technologies and distributed system.
 ## To contribute
 Contribution are always welcome and recommended! Here is how:
 
- * Fork the repository (here is the guide).
+ * Fork the repository (https://help.github.com/articles/fork-a-repo/).
  * Clone to your machine git clone https://github.com/YOUR_USERNAME/Blockchain.git
  * Make your changes
  * Create a pull request
 
-## Related repositories and sources
+## Blockchain Books
+Blockchain By Example =>https://www.packtpub.com/big-data-and-business-intelligence/blockchain-example
 
+![https://www.packtpub.com/big-data-and-business-intelligence/blockchain-example](https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B08754.png)
+
+
+## Related repositories and sources
+**Excellent serie of Bitcoin article for developers**
+
+https://davidederosa.com/basic-blockchain-programming/
+
+**Academic publications about Bitcoin and Blockchain technology**
 https://cdecker.github.io/btcresearch/#2017
 
+**Evolution of Smart Contract Security in the Ethereum Ecosystem**
+https://blog.zeppelinos.org/evolution-of-smart-contract-security-in-the-ethereum-ecosystem/
 
+**A list of Ethereum events** :
+https://github.com/genesisdotre/awesome-ethereum-events
+
+**A list of Smart contracts Platforms**:
+https://github.com/Overtorment/awesome-smart-contracts
+
+##  ACADEMIC PUBLICATIONS : Bitcoin, Ethereum, Blockchain
+https://blockchainlibrary.org/category/academic-publications/
+
+##  All about Zero-Knowledge Proofs
+https://zkp.science/
+
+## Ethereum forum for researchers
+https://ethresear.ch
 
 ## Videos:
 **Byzantine Paxos**
 https://www.youtube.com/watch?v=XnfAZHkyOy4
 
+## Donation :
+
+    BTC: 1LzZUVcRuRakhd1vPJK4U9DgeYHD9ht1SL
+    ETH: 0xF15b0D353CEB13806D037f5b0165c8480b37e43b
+
+
+
 ## miscellaneous (Links & tools) :
+**Ethereum conferences**
+https://davidburela.wordpress.com/category/blockchain/
+**Beigepaper**
+A rewrite of the Yellowpaper in non-Yellowpaper syntax.
+https://github.com/chronaeon/beigepaper
+
+**A curated list of awesome Ethereum security references**
+https://github.com/trailofbits/awesome-ethereum-security
+
+**Azure Blockchain hands-on lab step-by-step**
+https://github.com/Microsoft/MCW-Azure-Blockchain/tree/master/Hands-on%20lab
 
 **Principles of Distributed Computing (lecture collection)** 
 https://disco.ethz.ch/courses/podc_allstars/
